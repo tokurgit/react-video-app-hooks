@@ -1,6 +1,6 @@
 # video-app-hooks
 
-Video searching app implementing youtube Api
+Video searching app implementing youtube API
 
 ## App Challenges
  - refactor class based components to functional ones
